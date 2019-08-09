@@ -1,0 +1,8 @@
+/* Make the image fit nicely to the left of the dropdown. */
+.chosenImage-container .chosen-single {
+  height:40px !important;
+}
+/* Let the "No results match" text fill the whole width. */
+.chosenImage-container .chosen-results .no-results {
+  padding-left: inherit;
+}
